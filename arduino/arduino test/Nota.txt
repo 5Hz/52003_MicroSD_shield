@@ -1,0 +1,3 @@
+nota:
+Usa la libreria SD nativa en arduino y ejemplos propios de arduino por lo que no es necesario otro 
+ejemplo...
